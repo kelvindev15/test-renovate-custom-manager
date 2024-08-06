@@ -13,6 +13,6 @@ packageJson {
     dependencies {
         "react" version "17.0.2"
         "react-dom" version "17.0.2"
-        "@zucchero-sintattico/events".version("8.1.1")
+        "@zucchero-sintattico/events".version("8.4.0")
     }
 }
