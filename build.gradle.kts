@@ -1,5 +1,5 @@
 plugins {
-    id("io.github.kelvindev15.npm-gradle-plugin") version "3.2.7"
+    id("io.github.kelvindev15.npm-gradle-plugin") version "3.2.8"
 }
 
 packageJson {
