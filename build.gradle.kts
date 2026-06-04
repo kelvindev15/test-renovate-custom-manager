@@ -11,8 +11,8 @@ packageJson {
         script("start" runs "node build/js/packages/my-app/kotlin/my-app.js")
     }
     dependencies {
-        "react" version "19.2.6"
-        "react-dom" version "19.2.6"
+        "react" version "19.2.7"
+        "react-dom" version "19.2.7"
         "@zucchero-sintattico/events".version("9.3.0")
     }
 }
